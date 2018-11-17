@@ -1,0 +1,90 @@
+    * body {
+        box-sizing: border-box;
+        box-align: center;
+        text-align: center;
+        font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+        font-size: 18px;
+        background: #777; 
+        color: #777;
+        width: 960px;
+    }
+
+    header {
+        text-align: center;
+         margin: 20px 50px 10px 50px;
+         background: #ebebeb;
+         height: 60px;
+    }
+
+     nav {
+        text-align: center;
+         margin: 10px 50px 20px 50px;
+         background: #ebebeb;
+         height: 60px;
+    }
+
+    #left {
+        float: left;
+        position: relative;
+        text-align: center;
+        margin: 0px 20px 5px 50px;
+        width: 55%;
+        height: 280px;
+        background: #ebebeb;
+    }   
+
+    #right {
+        text-align: center;
+        float: left;
+        margin-right: 40px; 
+        margin-bottom: 5px;
+        width: 32%;
+        height: 280px;
+        background: #ebebeb;
+     }
+
+     article {
+        position: absolute;
+        left: 100px;
+        top: 240px;
+        text-align: center;
+        color: #ebebeb;
+        background: #777;
+        width: 29%;
+        height: 180px;
+    }
+
+    h1 {
+        position: absolute;
+        left: 168px;
+        top: 280px;
+        text-align: center;
+        background: #ebebeb;
+        width: 20%;
+        height: 25px;
+        margin-bottom: 5px;
+    }
+
+    p {
+        position: absolute;
+        left: 168px;
+        top: 320px;
+        text-align: center;
+        background: #ebebeb;
+        width: 20%;
+        height: 25px;
+    }
+            
+    footer {
+        clear: both;
+        overflow: auto;
+        text-align: center;
+        margin: 0px 50px 0px 50px;
+        height: 60px;
+        background: #ebebeb;
+    }
+    
+   
+
+
+    
